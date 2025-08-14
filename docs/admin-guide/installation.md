@@ -1,3 +1,18 @@
+# Introduction to SFS Extensions (SFS-X) App for Field Service
+
+The SFS Extensions (SFS-X) app enhances Salesforce Field Service by delivering additional capabilities that improve technician safety, boost mobile productivity, and increase dispatcher efficiency.
+
+This managed package offers ready-to-configure features that integrate seamlessly with your existing Field Service setup, allowing for quick deployment and adoption.
+## Features
+
+The current release of the SFS Extensions app includes the following features:
+
+- **Working Alone Timer and Alert System**: Monitor lone worker status and receive alerts when safety timers expire.
+- **Mobile Layout**: Apply mobile-specific layout configurations to improve technician user experience.
+- **Mass Recurring Non-Availabilities**: Schedule large-scale or recurring resource unavailability events.
+- **Timesheets Management App**: Enable resource timesheet tracking, review, and approvals.
+- **Time Rules**: Automatically categorize logged time based on configurable business rules (e.g., Regular, Overtime, Holiday).
+
 ## Pre-Installation Requirements
 Before installing the SFS-X app, ensure the following prerequisites are met:
 
@@ -6,11 +21,13 @@ Before installing the SFS-X app, ensure the following prerequisites are met:
   ➤ [Install the Field Service Package](https://fsl.secure.force.com/install)
 - All users are assigned the appropriate Field Service Permission Set Licenses and Permission Sets.  
 - The Field Service mobile app is configured for technician users:
-  - Technicians must be able to log in and use the Field Service mobile app.
-  - The Field Service Connected App must be installed in your org.  
-    ➤ [Download the Field Service Connected App](https://help.salesforce.com/s/articleView?id=sf.mfs_prepare.htm&type=5)  
-    ➤ [Give Users Access to the Field Service Mobile App](https://help.salesforce.com/s/articleView?id=service.mfs_perms_standard.htm&type=5)
-
+     - Technicians must be able to log in and use the Field Service mobile app.
+         
+          ➤ [Give Users Access to the Field Service Mobile App](https://help.salesforce.com/s/articleView?id=service.mfs_perms_standard.htm&type=5)
+     
+     - The Field Service Connected App must be installed in your org.  
+        ➤ [Download the Field Service Connected App](https://help.salesforce.com/s/articleView?id=sf.mfs_prepare.htm&type=5)  
+    
 ## Assign Field Service Permission Sets
 
 Ensure that users in your org are assigned the appropriate Field Service Permission Set Licenses and Permission Sets, as outlined in the table below.
@@ -22,8 +39,8 @@ Refer to Salesforce Help documentation:
 
 | User                     | Permission Set License                         | Permission Sets                                        |
 |--------------------------|------------------------------------------------|--------------------------------------------------------|
-| **Dispatcher**           | Field Service Dispatcher, Field Service Dispatcher Permissions | Field Service Dispatcher License       |
-| **Technician**           | Field Service Mobile, Field Service Scheduling                 | Field Service Resource License, Field Service Resource Permissions, Field Service Mobile License                 |  
+| **Dispatcher**           | <ul><li>Field Service Dispatcher</li> <li>Field Service Dispatcher Permissions </li></ul>      | <ul><li>Field Service Dispatcher License </li> </ul>    |
+| **Technician**           | <ul><li>Field Service Mobile</li> <li>Field Service Scheduling</li>  <ul>                    | <ul><li>Field Service Resource License</li> <li>Field Service Resource Permissions</li> <li>Field Service Mobile License</li></ul>                |  
 
 ## Install the SFS-X Package
 

@@ -1,0 +1,17 @@
+/* Style for top-level bullets (default) */
+.md-typeset ul {
+    list-style-type: disc;
+  }
+  
+  /* Style for second-level bullets (sub-bullets) */
+  .md-typeset ul ul {
+    list-style-type: circle;
+    margin-left: 1.5em;
+  }
+  
+  /* Optional: third-level bullets */
+  .md-typeset ul ul ul {
+    list-style-type: square;
+    margin-left: 1.5em;
+  }
+  

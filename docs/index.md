@@ -1,17 +1,13 @@
-# Welcome to My Technical Writing Sample Using MkDocs
+# Welcome to My Technical Writing Portfolio
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+As a Salesforce-savvy technical writer and product documentation specialist, I create content that simplifies complex systems for users, admins, and developers.
 
-## Commands
+## Featured Documentation
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- [User Guide](user-guide/index.md): Step-by-step documentation for end users.
+- [Admin Guide](admin-guide/installation.md): Installation, configuration, and setup for administrators.
+- [Blogs & Articles](blogs/index.md): Writing samples published or drafted for product marketing.
 
-## Project layout
+## About This Site
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+This site is built using [MkDocs Material](https://squidfunk.github.io/mkdocs-material/), optimized for clean navigation and structured documentation.

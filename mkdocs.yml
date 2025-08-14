@@ -1,4 +1,4 @@
-site_name: Gillian Florence
+site_name: Gillian Florence - Technical Writing Portfolio
 site_url: https://sitename.example
 theme:
   name: material
@@ -10,25 +10,39 @@ theme:
       text: Roboto
   features:
     - toc.integrate
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+extra_css:
+  - stylesheets/extra.css
 nav:
   - Home: index.md
-  - Getting Started: getting-started.md
-  - SFS-X Installation: installation.md 
-  - Working Alone Timer: 
-    - Overview: wat-overview.md
-    - Metadata: wat-metadata.md
-    - Configuration: 
-      - Overview: wat-configuration.md
-      - Set Up Service Resources and Service Territories: wat-config-setup-service-resource.md
-  - Union Rules: 
-    - Overview: unionrules-overview.md
-    - Metadata: 
-      - Custom Objects: unionrules-metadata-customobjects.md
-      - Flows: unionrules-metadata-flows.md
-    - Configuration: unionrules-configuration.md
+  - Admin Guide:
+    - Installation: admin-guide/installation.md 
+    - Features:
+      - Working Alone Timer: 
+        - Overview: admin-guide/wat-overview.md
+        - Metadata: admin-guide/wat-metadata.md
+        - Configuration: admin-guide/wat-configuration.md
+        - Set Up Service Resources and Service Territories: admin-guide/wat-config-setup-service-resource.md
+      - Union Rules: 
+         - Overview: admin-guide/unionrules-overview.md
+         - Metadata: 
+           - Custom Objects: admin-guide/unionrules-metadata-customobjects.md
+           - Flows: admin-guide/unionrules-metadata-flows.md
+         - Configuration: admin-guide/unionrules-configuration.md
+      - Mass Recurring Non-Availabilties: 
+         - Overview: admin-guide/massrecurring-overview.md
+         - Metadata: admin-guide/massrecurring-metadata.md
+     
   
 markdown_extensions:
   - tables
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: "https://www.linkedin.com/in/gillianflorence"
+      name: "Connect with me on LinkedIn"
