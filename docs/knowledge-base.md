@@ -1,4 +1,4 @@
-# Welcome to the SFS-X Demo Help Center
+# Welcome to My Demo Help Center
 
 This sample **Help Center** was designed and built entirely in **Salesforce**, using the **Experience Cloud** site framework. It showcases how Knowledge Articles can be organized and surfaced through Topics, Featured Topics, and intuitive navigation to provide a scalable and user-friendly support solution.
 
@@ -11,7 +11,7 @@ On the backend, configuration was done in **Salesforce Setup** to manage:
 
 ---
 
-### 👥 Who It's For
+### Who It's For
 
 This Help Center serves multiple audiences:
 
@@ -20,7 +20,7 @@ This Help Center serves multiple audiences:
 
 ---
 
-### 🛠️ Why It Matters
+### Why It Matters
 
 This sample site demonstrates:
 
@@ -32,8 +32,8 @@ This sample site demonstrates:
 
 ---
 
-### 🔗 Visit the Live Demo
+### Visit the Live Demo
 
 Explore the public version of the demo Help Center here:
 
-👉 [**Launch the Help Center**](https://devorgkbcom-dev-ed.develop.my.site.com/MyDemoHelpCenter/s){: target="_blank" rel="noopener" }
+[**Launch the Help Center**](https://devorgkbcom-dev-ed.develop.my.site.com/MyDemoHelpCenter/s){: target="_blank" rel="noopener" }

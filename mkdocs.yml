@@ -4,7 +4,7 @@ theme:
   name: material
   palette:
     scheme: default
-    primary: blue
+    primary: indigo
     accent: light blue
   font:
       text: Roboto
@@ -38,6 +38,7 @@ nav:
   - Help Center: knowledge-base.md
   - API Documentation: api-docs.md
   - Athletic Honours: athletic-honours.md
+  - About Me: about-me.md
 
 
      
