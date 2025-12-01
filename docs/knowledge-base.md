@@ -36,4 +36,4 @@ This sample site demonstrates:
 
 Explore the public version of the demo Help Center here:
 
-[**Launch the Help Center**](https://devorgkbcom-dev-ed.develop.my.site.com/MyDemoHelpCenter/s){: target="_blank" rel="noopener" }
+[**Launch the Help Center**](https://devorgkbcom-dev-ed.develop.my.site.com/DemoHelpCenter/){: target="_blank" rel="noopener" }
