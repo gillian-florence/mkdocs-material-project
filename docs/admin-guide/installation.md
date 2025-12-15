@@ -11,7 +11,7 @@ The current release of the SFS-X app includes the following features:
 - **Mobile Layout**: Apply mobile-specific layout configurations to improve technician user experience.
 - **Mass Recurring Non-Availabilities**: Schedule large-scale or recurring resource unavailability events.
 - **Timesheets Management App**: Enable resource timesheet tracking, review, and approvals.
-- **Time Rules**: Automatically categorize logged time based on configurable business rules (e.g., Regular, Overtime, Holiday).
+- **Union Rules**: Automatically categorize logged time based on configurable business rules (e.g., Regular, Overtime, Holiday).
 
 ## Pre-Installation Requirements
 Before installing the SFS-X app, ensure the following prerequisites are met:

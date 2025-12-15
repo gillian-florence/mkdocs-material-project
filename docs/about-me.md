@@ -3,6 +3,10 @@ I’m a technical writer who enjoys making the complex feel simple. I spend my t
 
 I like figuring things out. More importantly, I enjoy helping people succeed, whether that’s through clear documentation, thoughtful collaboration, or solving a tricky problem alongside a team.
 
+My athletic background has strongly shaped how I approach teamwork, accountability, and long-term commitment.  
+[Read more about my athletic background.](athletic-honours.md)
+
+
 ## My Working Environment
 
 ??? quote "How I Work"
@@ -247,4 +251,3 @@ I like figuring things out. More importantly, I enjoy helping people succeed, wh
     - Supported multiple drill models with complex mechanical and electrical variations.
     - Validated procedures on live mine sites and at Caterpillar’s proving grounds.
     - Became a requested writer for additional mining product teams.
-

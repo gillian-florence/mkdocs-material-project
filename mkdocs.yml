@@ -5,16 +5,16 @@ theme:
   palette:
       # Palette toggle for light mode
     - scheme: default
-      primary: teal
-      accent: deep orange
+      primary: indigo
+      accent: teal
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
 
     # Palette toggle for dark mode
     - scheme: slate
-      primary: teal
-      accent: deep orange
+      primary: indigo
+      accent: cyan
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -26,33 +26,37 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
-    - navigation.footer
+  
 extra_css:
   - stylesheets/extra.css
 nav:
   - Home: index.md
-  - Admin Guide:
-    - Installation: admin-guide/installation.md 
-    - Features:
-      - Working Alone Timer: 
-        - Overview: admin-guide/wat-overview.md
-        - Metadata: admin-guide/wat-metadata.md
-        - Configuration: 
-           - Configuration Overview: admin-guide/wat-configuration.md
-           - Set Up Service Resources and Service Territories: admin-guide/wat-config-setup-service-resource.md
-      - Union Rules: 
-         - Overview: admin-guide/unionrules-overview.md
-         - Metadata: 
-           - Custom Objects: admin-guide/unionrules-metadata-customobjects.md
-           - Flows: admin-guide/unionrules-metadata-flows.md
-         - Configuration: admin-guide/unionrules-configuration.md
-      - Mass Recurring Non-Availabilties: 
-         - Overview: admin-guide/massrecurring-overview.md
-         - Metadata: admin-guide/massrecurring-metadata.md
+  - Writing Samples:
+    - Administrator Guide: 
+      - Introduction: admin-guide/index.md
+      - Start Here - Install & Configure: admin-guide/installation.md 
+      - Features:
+        - Working Alone Timer: 
+          - Overview: admin-guide/wat-overview.md
+          - Metadata: admin-guide/wat-metadata.md
+          - Configuration: 
+            - Configuration Overview: admin-guide/wat-configuration.md
+            - Set Up Service Resources and Service Territories: admin-guide/wat-config-setup-service-resource.md
+        - Union Rules: 
+          - Overview: admin-guide/unionrules-overview.md
+          - Metadata: 
+            - Custom Objects: admin-guide/unionrules-metadata-customobjects.md
+          - Configuration: admin-guide/unionrules-configuration.md
+        - Mass Recurring Non-Availabilties: 
+          - Overview: admin-guide/massrecurring-overview.md
+          - Metadata: admin-guide/massrecurring-metadata.md
+    - User Guide:
+      - Overview (PDF Sample): user-guide/index.md
   - Published Blogs: published-blogs.md
-  - Help Center: knowledge-base.md
-  - Athletic Honours: athletic-honours.md
-  - About Me: about-me.md
+  - About Me: 
+    - Overview: about-me.md
+    - Athletic Background: athletic-honours.md
+  - Help Centre (Coming Soon): knowledge-base.md
 
 
      

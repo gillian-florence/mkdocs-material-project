@@ -27,17 +27,21 @@ Explore a selection of my work:
 
 <div class="grid cards" markdown>
 
-- **Admin Guide**  
-  [Installation & Configuration](admin-guide/installation.md)  
-  Installation and configuration documentation for Salesforce-based solutions.
+- **System Administrator Guide**  
+  [Installation & Configuration](admin-guide/index.md)  
+  Administrator-facing installation and configuration documentation for modular Salesforce solutions.
 
+- **User Guide**  
+   [User Guide (PDF Sample)](user-guide/index.md)  
+   Task-based user documentation for complex Salesforce Field Service workflows, presented as a representative PDF excerpt.
+   
 - **Blog Posts**  
   [Blogs & Product Writing](published-blogs.md)  
-  Product writing that explains feature value and real-world use cases.
+ Product-focused writing that explains feature behaviour, value, and real-world use cases.
 
-- **Help Center**  
-  [Help Center Samples](knowledge-base.md)  
-  In-progress Salesforce Experience Cloud help center content.
+- **Help Centre (In Progress)**  
+  [Help Centre Demo](knowledge-base.md)  
+  Salesforce Experience Cloud help content in progress. This section will showcase IA, article templates, and task-based help once finalized.
 
 </div>
 

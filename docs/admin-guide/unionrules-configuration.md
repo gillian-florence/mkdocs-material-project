@@ -1,6 +1,6 @@
 # Configuration
 
-To configure the **Time Rules** feature, complete the following procedures:
+To configure the **Union Rules** feature, complete the following procedures:
 
 - Create custom fields for time tracking categories.
 - Create **Time Type** records that correspond to time categories.

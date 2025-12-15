@@ -1,4 +1,4 @@
-# Blog Publications
+# Published Blogs
 
 A selection of published blogs authored for Diabsolut, showcasing Salesforce Field Service (SFS-X) features and industry challenges.
 
