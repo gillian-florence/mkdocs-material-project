@@ -1,0 +1,55 @@
+/* Style for top-level bullets (default) */
+.md-typeset ul {
+    list-style-type: disc;
+  }
+  
+  /* Style for second-level bullets (sub-bullets) */
+  .md-typeset ul ul {
+    list-style-type: circle;
+    margin-left: 1.5em;
+  }
+  
+  /* Optional: third-level bullets */
+  .md-typeset ul ul ul {
+    list-style-type: square;
+    margin-left: 1.5em;
+  }
+  /* Apply to all collapsible admonitions of type "quote" */
+.md-typeset .admonition.quote > .admonition-title::before,
+.md-typeset details.quote > summary::before {
+  content: none;          /* Remove icon glyph */
+}
+
+
+/* Optional: neutral title styling */
+.md-typeset .admonition.quote > .admonition-title,
+.md-typeset details.quote > summary {
+  font-weight: 600;
+  text-transform: none;
+}
+
+/* Remove left icon spacing from collapsible admonition titles */
+.md-typeset details > summary,
+.md-typeset .admonition-title {
+  padding-left: 1.00rem !important; 
+}
+
+/* Make all collapsible admonitions look neutral (no blue background) */
+.md-typeset .admonition,
+.md-typeset details {
+  background-color: transparent !important;          
+  border: 1px solid var(--md-default-fg-color--light);
+  box-shadow: none;
+}
+/* Neutral header row for the title/summary */
+.md-typeset .admonition > .admonition-title,
+.md-typeset details > summary {
+  background-color: transparent !important;          
+}
+
+/* Match admonition text size to normal paragraph text */
+.md-typeset .admonition,
+.md-typeset details {
+  font-size: inherit !important;      
+  line-height: inherit !important;    
+}
