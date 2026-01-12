@@ -1,7 +1,8 @@
 # About Me
-I’m a technical writer who enjoys making the complex feel simple. I spend my time between product, engineering, and the end user&mdash;testing workflows, asking questions, clarifying intent, and shaping information into guidance people can actually use.
 
-I like figuring things out. More importantly, I enjoy helping people succeed, whether that’s through clear documentation, thoughtful collaboration, or solving a tricky problem alongside a team.
+I’m a technical writer who enjoys working at the intersection of product, engineering, and the end user. I spend my time getting hands-on with systems—testing workflows, asking questions, and clarifying intent so I can shape information into guidance people can actually use.
+
+I’m motivated by clarity and follow-through. I enjoy solving messy, ambiguous problems, collaborating closely with teams, and helping documentation become a reliable part of how products are built, shipped, and supported.
 
 My athletic background has strongly shaped how I approach teamwork, accountability, and long-term commitment.  
 [Read more about my athletic background.](athletic-honours.md)
@@ -43,7 +44,7 @@ My athletic background has strongly shaped how I approach teamwork, accountabili
 ??? quote "General Technical Writing Experience"
     I’ve worked in technical writing roles since 2008, across enterprise hardware, manufacturing environments, SaaS products, and Salesforce-based solutions.
 
-    My experience includes mechanical and electrical installation documentation, operator manuals for in-cab systems, OEM and dealer manuals, knowledge base content, and task-based user guides. While the industries and products have varied, my approach has remained consistent: understand how the system works, observe how people actually use it, and document workflows clearly and accurately for the intended audience.
+    My experience includes mechanical and electrical installation documentation, operator manuals, OEM and dealer manuals, knowledge base content, and task-based user guides. Across different products and industries, my approach has remained consistent: understand how systems work, observe how people use them, and document workflows clearly for the intended audience.
 
 ??? quote "Deliverable Types"
 
@@ -94,21 +95,19 @@ My athletic background has strongly shaped how I approach teamwork, accountabili
 
 ??? quote "AI in My Writing Workflow"
 
-    I use AI as a practical support tool throughout the documentation lifecycle, not as a replacement for subject-matter expertise.
+    I use AI as a practical support tool throughout the documentation lifecycle, not as a replacement for subject-matter expertise or judgment.
 
     In my day-to-day work, I use AI to:
-    
-    - Accelerate first drafts, outlines, and content restructuring
-    - Explore alternative phrasing, tone, or levels of technical depth
-    - Sanity-check explanations and surface gaps or assumptions
-    - Summarize complex inputs (engineering notes, requirements, feedback)
-    - Support consistency across larger documentation sets
 
-    I typicaly prompt for structured summaries or reports so I can review findings systematically—verifying accuracy, deciding what belongs in the documentation, and identifying areas that need deeper investigation.
+    - Accelerate first drafts, outlines, and content restructuring  
+    - Explore alternative phrasing, tone, or levels of technical depth  
+    - Sanity-check explanations and surface gaps or assumptions  
+    - Summarize complex inputs such as engineering notes, requirements, and feedback  
+    - Support consistency across larger documentation sets  
 
-    Accuracy, context, and judgment always come first. I validate workflows hands-on, confirm details with subject-matter experts, and treat AI output as a starting point.
+    However, technical writing is not just about producing text. I am responsible for deciding what information users actually need, what matters and what does not, how content should be structured so it can be found, and when something is unclear, incomplete, or incorrect.
 
-    Used well, AI helps me work faster and think more clearly, while still delivering documentation that is precise, trustworthy, and aligned with how the product actually works.
+    Accuracy, relevance, and usability always come first. I validate workflows hands-on, confirm details with subject-matter experts, and treat AI output as a starting point—not a final authority. The responsibility for correctness and clarity remains mine.
 
 ??? quote "Intangibles & Strengths"
     These are the qualities that I bring consistently in how I work and how teams experience working with me:
@@ -165,7 +164,7 @@ My athletic background has strongly shaped how I approach teamwork, accountabili
 
 
     ??? quote "Training & Support Specialist | July 2017 – August 2018"
-        *SaaS -- Athlete Management System*
+        *SaaS - Athlete Management System*
 
         **Overview**
 

@@ -32,28 +32,33 @@ extra_css:
 nav:
   - Home: index.md
   - Writing Samples:
+    - Introduction: writing-samples/index.md
     - Administrator Guide: 
-      - About This Sample: admin-guide/index.md
-      - Install & Configure: admin-guide/installation.md 
-      - Features:
-        - Working Alone Timer: 
-          - Overview: admin-guide/wat-overview.md
-          - Metadata: admin-guide/wat-metadata.md
-          - Configuration: 
-            - Configuration Overview: admin-guide/wat-configuration.md
-            - Set Up Service Resources and Service Territories: admin-guide/wat-config-setup-service-resource.md
-        - Union Rules: 
-          - Overview: admin-guide/unionrules-overview.md
-          - Metadata: 
-            - Custom Objects: admin-guide/unionrules-metadata-customobjects.md
-          - Configuration: admin-guide/unionrules-configuration.md
-        - Mass Recurring Non-Availabilties: 
-          - Overview: admin-guide/massrecurring-overview.md
-          - Metadata: admin-guide/massrecurring-metadata.md
+      - Sample Overview: admin-guide/index.md
+      - Sample Documentation (PDF): admin-guide/admin-guide-pdf-sample.md
+      - Sample Documentation (MkDocs):
+        - Install & Configure: admin-guide/installation.md 
+        - Features:
+          - Working Alone Timer: 
+            - Overview: admin-guide/wat-overview.md
+            - Metadata: admin-guide/wat-metadata.md
+            - Configuration: 
+              - Configuration Overview: admin-guide/wat-configuration.md
+              - Set Up Service Resources and Service Territories: admin-guide/wat-config-setup-service-resource.md
+          - Union Rules: 
+            - Overview: admin-guide/unionrules-overview.md
+            - Metadata: 
+              - Custom Objects: admin-guide/unionrules-metadata-customobjects.md
+            - Configuration: admin-guide/unionrules-configuration.md
+          - Mass Recurring Non-Availabilties: 
+            - Overview: admin-guide/massrecurring-overview.md
+            - Metadata: admin-guide/massrecurring-metadata.md
+            - Configuration: admin-guide/massrecurring-configuration.md
     - User Guide:
-      - Overview (PDF Sample): user-guide/index.md
+      - Sample Overview: user-guide/index.md
+      - Sample Documentation (PDF): user-guide/user-guide-pdf-sample.md
   - Published Blogs: published-blogs.md
-  - About Me: 
+  - About: 
     - Overview: about-me.md
     - Athletic Background: athletic-honours.md
   - Help Centre (Coming Soon): knowledge-base.md

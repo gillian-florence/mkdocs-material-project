@@ -1,4 +1,4 @@
-# Introduction to SFS Extensions (SFS-X) App for Field Service
+# Introduction to SFS-X App for Field Service
 
 The SFS Extensions (SFS-X) app enhances Salesforce Field Service by delivering additional capabilities that improve technician safety, boost mobile productivity, and increase dispatcher efficiency.
 
