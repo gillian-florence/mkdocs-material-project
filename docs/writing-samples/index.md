@@ -1,6 +1,8 @@
 # Writing Samples
 This section includes representative documentation samples from my work on Salesforce-based solutions. Each sample includes a short overview for context and one or more artifacts in the format used for delivery (PDF) and/or MkDocs.
 
+*All documentation samples have been anonymized and adapted for portfolio use. Screenshots and examples are representative and may not reflect exact naming.*
+
 **What to review first**
 
 - **Administrator Guide** – best starting point for evaluating information architecture, configuration documentation, and maintainability across a modular solution.

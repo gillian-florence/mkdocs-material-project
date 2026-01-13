@@ -5,12 +5,15 @@
     **User Guides | Administrator Documentation | Knowledge Base | Release Notes**
     </div>
 
+I’m a technical writer based in **Halifax, Nova Scotia (Canada)**, with experience documenting complex SaaS and enterprise systems.
 
-I’m a technical writer with a background in product and systems documentation, focused on making complex information clear, structured, and usable. I create user guides, admin and configuration documentation, knowledge base content, and release notes for SaaS platforms and Salesforce-based solutions.
+On this site, you’ll find selected writing samples that show how I approach administrator, end-user, and implementation documentation, along with published blog content and background on how I work.
 
-My work supports both implementation and day-to-day use, with an emphasis on how people actually find, understand, and apply documentation in real workflows. The samples on this site show how I design documentation for administrators, end users, and internal teams.
+My work focuses on creating clear, structured documentation that supports both system implementation and day-to-day use. I’ve worked closely with product, engineering, and delivery teams on configuration-heavy systems where accuracy, usability, and maintainability matter.
 
-For a deeper look at my background, experience, and working style, see the [About](about-me.md) page.
+If you’re reviewing this site for hiring or collaboration, the [Writing Samples](writing-samples/index.md) section is the best place to start.
+
+For a deeper look at my background, experience, and working style, see the [About Me](about-me.md) page.
 
 ## About This Site
 

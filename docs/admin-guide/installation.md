@@ -1,77 +1,77 @@
-# Introduction to SFS-X App for Field Service
+# Introduction to Field Service Extensions (Sample)
 
-The SFS Extensions (SFS-X) app enhances Salesforce Field Service by delivering additional capabilities that improve technician safety, boost mobile productivity, and increase dispatcher efficiency.
+Field Service Extensions (Sample) enhances Salesforce Field Service by adding capabilities designed to improve technician safety, support mobile productivity, and increase dispatcher visibility.
 
-This managed package offers ready-to-configure features that integrate seamlessly with your existing Field Service setup, allowing for quick deployment and adoption.
+This managed package provides ready-to-configure features that integrate with an existing Field Service implementation, allowing administrators to enable functionality based on organizational needs.
 ## Current Features
 
-The current release of the SFS-X app includes the following features:
+The current release includes the following features:
 
-- **Working Alone Timer and Alert System**: Monitor lone worker status and receive alerts when safety timers expire.
-- **Mobile Layout**: Apply mobile-specific layout configurations to improve technician user experience.
-- **Mass Recurring Non-Availabilities**: Schedule large-scale or recurring resource unavailability events.
-- **Timesheets Management App**: Enable resource timesheet tracking, review, and approvals.
-- **Union Rules**: Automatically categorize logged time based on configurable business rules (e.g., Regular, Overtime, Holiday).
+- **Working Alone Timer and Alert System**  
+Monitor lone worker status and receive alerts when safety timers expire.
+- **Mobile Layout**  
+Apply mobile-specific layout configurations to improve technician user experience.
+- **Mass Recurring Non-Availabilities**  
+Schedule large-scale or recurring resource unavailability events.
+- **Timesheets Management App**  
+Enable resource timesheet tracking, review, and approvals.
+- **Union Rules**  
+Automatically categorize logged time based on configurable business rules (e.g., Regular, Overtime, Holiday).
 
 ## Pre-Installation Requirements
-Before installing the SFS-X app, ensure the following prerequisites are met:
+Before installing the package, ensure the following prerequisites are met:
 
-- Field Service is enabled in your Salesforce org.
+- Salesforce Field Service is enabled in the target org.
 - The latest Salesforce Field Service managed package is installed.  
   ➤ [Install the Field Service Package](https://fsl.secure.force.com/install)
-- All users are assigned the appropriate Field Service Permission Set Licenses and Permission Sets.  
+- Users are assigned the appropriate Field Service Permission Set Licenses and Permission Sets.
 - The Field Service mobile app is configured for technician users:
-     - Technicians must be able to log in and use the Field Service mobile app.
-         
-          ➤ [Give Users Access to the Field Service Mobile App](https://help.salesforce.com/s/articleView?id=service.mfs_perms_standard.htm&type=5)
-     
-     - The Field Service Connected App must be installed in your org.  
-        ➤ [Download the Field Service Connected App](https://help.salesforce.com/s/articleView?id=sf.mfs_prepare.htm&type=5)  
+    - Technicians can log in and use the Field Service mobile app.  
+       ➤ [Give Users Access to the Field Service Mobile App](https://help.salesforce.com/s/articleView?id=service.mfs_perms_standard.htm&type=5)
+    - The Field Service Connected App is installed in the org.  
+       ➤ [Prepare Field Service for Mobile](https://help.salesforce.com/s/articleView?id=sf.mfs_prepare.htm&type=5)
     
 ## Assign Field Service Permission Sets
 
-Ensure that users in your org are assigned the appropriate Field Service Permission Set Licenses and Permission Sets, as outlined in the table below.
+Ensure users are assigned the appropriate Field Service Permission Set Licenses and Permission Sets, as outlined below.
 
 | User                     | Permission Set License                         | Permission Sets                                        |
 |--------------------------|------------------------------------------------|--------------------------------------------------------|
 | **Dispatcher**           | <ul><li>Field Service Dispatcher</li> <li>Field Service Dispatcher Permissions </li></ul>      | <ul><li>Field Service Dispatcher License </li> </ul>    |
 | **Technician**           | <ul><li>Field Service Mobile</li> <li>Field Service Scheduling</li>  <ul>                    | <ul><li>Field Service Resource License</li> <li>Field Service Resource Permissions</li> <li>Field Service Mobile License</li></ul>                |  
 
-Refer to Salesforce Help documentation:
+Refer to Salesforce Help documentation for detailed guidance:
 
 - [Field Service Permission Set Licenses](https://help.salesforce.com/s/articleView?id=sf.field_service_psl.htm)
 - [Assign Field Service Permissions](https://help.salesforce.com/s/articleView?id=sf.field_service_permissions.htm)
-## Install the SFS-X Package
 
-To install the SFS Extensions app:
+## Install the Package
 
-1. Click the installation link provided to you by Diabsolut.
-2. Log in to the Salesforce org where you want to install the app.
-3. Enter the password provided by Diabsolut, select **Install for Admin Users Only**, then click **Install**.
-> The installation may take a while. Check your email for confirmation that the installation was successful.
-4. Once installation is complete, go to **Setup** and confirm the SFS-X package appears under **Installed Packages**.
+To install Field Service Extensions (Sample):
 
-After confirming a successful installation, proceed to configure your org by following the procedures outlined in the feature-specific sections.
+1. Open the installation link provided for your implementation.
+2. Log in to the Salesforce org where the package will be installed.
+3. Enter the installation password (if required), select **Install for Admin Users Only**, and click **Install**.
+> Installation may take several minutes. You will receive an email notification when the process completes.
+4. After installation, go to **Setup** and confirm the package appears under **Installed Packages**.
 
-> **Note:** With the SFS-X managed package, included features are enabled or disabled by Diabsolut based on your organization’s implementation. You may not have access to all the features described in this document.
+Once installation is complete, proceed to the feature-specific configuration sections.
+
+> **Note:** Available features may vary by implementation. Not all features described in this guide may be enabled in every org.
+
 ## Assign Package Licenses
 
-The SFS-X app is a licensed managed package. After installing the package, you must assign a license to each user who requires access to the app functionality, including System Administrators, Dispatchers, and Mobile Technicians.
+This package uses Salesforce licensing. After installation, assign a license to each user who requires access, including System Administrators, Dispatchers, and Mobile Technicians.
 
 To assign package licenses:
 
 1. From **Setup**, enter **Installed Packages** in the Quick Find box and select **Installed Packages**.
-
-2. Click **Manage Licenses** next to **SFS Extensions**.
-
+2. Click **Manage Licenses** next to **Field Service Extensions (Sample)**.
 3. On the **Package Manager** page, click **Add Users**.
+4. Select the users who require access.
+5. Click **Add**.
 
-4. In the **Available Users** list, check the box next to each user you want to assign a license to.
-   Selected users will appear in the Selected Users section.
-
-5. Click **Add** when all required users have been selected.
-
-> **Note:** Users who do not have an assigned license will not be able to access any SFS-X functionality, including System Administrators performing configuration tasks.
+> **Note:** Users without an assigned license will not be able to access package functionality, including administrative configuration.
 
 
 

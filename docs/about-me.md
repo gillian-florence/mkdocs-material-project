@@ -7,7 +7,6 @@ I’m motivated by clarity and follow-through. I enjoy solving messy, ambiguous 
 My athletic background has strongly shaped how I approach teamwork, accountability, and long-term commitment.  
 [Read more about my athletic background.](athletic-honours.md)
 
-
 ## My Working Environment
 
 ??? quote "How I Work"
@@ -250,3 +249,9 @@ My athletic background has strongly shaped how I approach teamwork, accountabili
     - Supported multiple drill models with complex mechanical and electrical variations.
     - Validated procedures on live mine sites and at Caterpillar’s proving grounds.
     - Became a requested writer for additional mining product teams.
+
+### *Contact*
+
+The best way to get in touch with me is via LinkedIn.
+
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/gillianflorence/){: target="_blank" }
