@@ -57,11 +57,15 @@ nav:
     - User Guide:
       - Sample Overview: user-guide/index.md
       - Sample Documentation (PDF): user-guide/user-guide-pdf-sample.md
+      - Sample Documentation (MkDocs):
+        - Overview: user-guide/feature-overview.md
+        - Create Recurring Non-Availabilities: user-guide/mass-recurring-create.md
+        - Delete Resource Absences: user-guide/mass-recurring-delete.md
   - Published Blogs: published-blogs.md
   - About Me: 
     - Overview: about-me.md
     - Athletic Background: athletic-honours.md
-  - Help Centre (Coming Soon): knowledge-base.md
+  - Help Center (Coming Soon): knowledge-base.md
 
 
      
